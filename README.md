@@ -1,1 +1,1 @@
-absolute pathname current working dir
+my first readme in shell
