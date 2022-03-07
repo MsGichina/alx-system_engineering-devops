@@ -1,1 +1,1 @@
-my first readme in shell
+script that prints i/o redirectio
