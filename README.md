@@ -1,1 +1,1 @@
-script that prints i/o redirectio
+how to create a hello world file
